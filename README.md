@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @astoia14
-- 👀 Junior QA Engineer
+- 👀 Junior Software Engineer
 - 📫 astoia14@massmutual.com
 
 <!---

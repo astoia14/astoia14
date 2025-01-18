@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @astoia14
-- 👀 Junior Software Engineer
+- 👋 Hi, I’m Alin Stoia
+- 👀 Software Engineer
 - 📫 astoia14@massmutual.com
 
 <!---
